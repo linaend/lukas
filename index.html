@@ -108,7 +108,7 @@ Clique aqui
 
 <div id="mensagem">
 
-Fiz esse site porque você é teimoso e não tá deixando eu te presentear. ❤️ Por mais gay que isso seja, eu te amo muito, e cada vez mais eu quero envelhecer ao seu lado. Obrigada por ser minha companhia diária. Ter você no meu coração todos os dias me faz uma pessoa melhor. Você é tudo o que eu tenho na minha vida, e eu não conseguiria expressar em palavras o que eu sinto por você. Aqui na internet começamos, e iremos construir coisas muito grandiosas no futuro. Amo você por ser quem você é, e vou ser sempre apaixonada por você. Que o nosso propósito seja incrível, assim como você é para mim. Meu pirocudinho. ❤️
+Fiz esse site porque você é teimoso e não tá deixando eu te presentear. ❤️ Por mais gay que isso seja, eu te amo muito, e cada vez mais eu quero envelhecer ao seu lado. Obrigada por ser minha companhia diária, ter você no meu coração todos os dias me faz uma pessoa melhor. Você é tudo o que eu tenho na minha vida, e eu não conseguiria expressar em palavras o que eu sinto por você. Aqui na internet começamos, e iremos construir coisas muito grandiosas no futuro. Amo você por ser quem você é, e vou ser sempre apaixonada por você. Que o nosso propósito seja incrível, assim como você é para mim, meu pirocudinho. ❤️
 
 </div>
 
