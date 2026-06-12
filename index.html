@@ -70,7 +70,6 @@ border:none;
 border-radius:15px;
 cursor:pointer;
 font-size:18px;
-margin:10px;
 transition:.3s;
 }
 
@@ -92,11 +91,6 @@ font-size:15px;
 opacity:.7;
 }
 
-a{
-text-decoration:none;
-color:black;
-}
-
 </style>
 </head>
 
@@ -108,15 +102,9 @@ color:black;
 
 <h1>Para o amor da minha vida ❤️</h1>
 
-<button onclick="mostrarMensagem()">
+<button id="botao" onclick="mostrarMensagem()">
 Clique aqui
 </button>
-
-<a href="https://www.youtube.com/results?search_query=Justin+Bieber+ETA" target="_blank">
-<button>
-🎵 ETA
-</button>
-</a>
 
 <div id="mensagem">
 
@@ -135,6 +123,7 @@ Mas nunca longe do meu coração.
 
 function mostrarMensagem(){
 document.getElementById("mensagem").style.display="block";
+document.getElementById("botao").style.display="none";
 }
 
 </script>
